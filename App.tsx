@@ -1,4 +1,3 @@
-
 import React, { useState, useCallback } from 'react';
 import { AppState, Gender, AnalysisResult } from './types';
 import Layout from './components/Layout';
