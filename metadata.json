@@ -1,0 +1,7 @@
+{
+  "name": "GlowUp AI - Premium Salon Mirror",
+  "description": "An AI-powered salon companion that analyzes your look, provides professional grooming ratings, and suggests personalized improvements for a complete transformation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
