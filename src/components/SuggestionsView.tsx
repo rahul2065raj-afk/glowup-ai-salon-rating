@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { AnalysisResult } from '../types';
+import { AnalysisResult } from '../../types';
 import { Sparkles, CheckCircle2, Scissors, Palette, Lightbulb } from 'lucide-react';
 
 interface SuggestionsViewProps {

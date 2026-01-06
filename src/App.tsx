@@ -1,10 +1,10 @@
 import React, { useState, useCallback } from 'react';
-import { AppState, Gender, AnalysisResult } from '../../types';
-import Layout from '../../components/Layout';
-import PhotoStep from '../../components/PhotoStep';
-import RatingDisplay from '../../components/RatingDisplay';
-import SuggestionsView from '../../components/SuggestionsView';
-import ComparisonView from '../../components/ComparisonView';
+import { AppState, Gender, AnalysisResult } from '../types';
+import Layout from './components/Layout';
+import PhotoStep from './components/PhotoStep';
+import RatingDisplay from './components/RatingDisplay';
+import SuggestionsView from './components/SuggestionsView';
+import ComparisonView from './components/ComparisonView';
 import { analyzeLook } from './services/geminiService';
 import { User, UserPlus } from 'lucide-react';
 

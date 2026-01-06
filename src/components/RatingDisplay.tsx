@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { AnalysisResult } from '../types';
+import { AnalysisResult } from '../../types';
 import { Star, TrendingUp, Info } from 'lucide-react';
 import { BarChart, Bar, XAxis, YAxis, ResponsiveContainer, Cell, Tooltip } from 'recharts';
 

@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { AnalysisResult } from '../types';
+import { AnalysisResult } from '../../types';
 import { Trophy, ArrowRight, Share2, Calendar } from 'lucide-react';
 
 interface ComparisonViewProps {
